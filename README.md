@@ -2,9 +2,7 @@
 
 Professional static portfolio website built for GitHub Pages.
 
-## Upload instructions
-Upload the files inside this folder directly to your GitHub Pages repository root. Do not upload the outer folder.
-
+## Upload 
 Required root files:
 - index.html
 - about.html
